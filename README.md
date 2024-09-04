@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on business
 - 📫 How to reach me qdoblea@gmail.com
 - 😄 Pronouns: ady
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: coffee
 
 <!---
 gitady2024/gitady2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
