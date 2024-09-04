@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ia
 - 💞️ I’m looking to collaborate on business
 - 📫 How to reach me qdoblea@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ady
 - ⚡ Fun fact: ...
 
 <!---
